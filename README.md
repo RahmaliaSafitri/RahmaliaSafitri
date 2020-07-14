@@ -1,4 +1,4 @@
-### Hi, I'm Rahmalia Safitri 👋
+### Hi there 👋 I'm Ama
 
 <hr />
 <h4> This is my Github profile. </h4>
