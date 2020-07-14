@@ -3,7 +3,7 @@
 <h6> This is my Github profile. </h6>
 <h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6>
 
-- 📫 How to reach me: <a href="linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
 <!--
 **RahmaliaSafitri/RahmaliaSafitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
