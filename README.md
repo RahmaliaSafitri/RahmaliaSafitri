@@ -1,7 +1,7 @@
 ### Hi, I'm Rahmalia Safitri 👋
 
-<h1> This is my Github profile. </h1>
-<h1> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h1>
+<h6> This is my Github profile. </h6>
+<h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6>
 
 - 📫 How to reach me: <a href="linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
 <!--
