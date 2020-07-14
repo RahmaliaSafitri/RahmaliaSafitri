@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Rahmalia Safitri 👋
 
+<h1> This is my Github profile. </h1>
+<h1> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h1>
+
+- 📫 How to reach me: <a href="linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
 <!--
 **RahmaliaSafitri/RahmaliaSafitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
