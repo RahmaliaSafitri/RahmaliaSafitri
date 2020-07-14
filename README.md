@@ -1,5 +1,6 @@
+<hr />
 ### Hi, I'm Rahmalia Safitri 👋
-
+<hr />
 <h6> This is my Github profile. </h6>
 <h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6>
 
