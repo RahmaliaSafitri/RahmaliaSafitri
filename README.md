@@ -4,7 +4,7 @@
 <h4> This is my Github profile. </h4>
 <ul>
 <li><h6> A special Girl 😄 who has interested in Machine Learning and Deep Learning</h6> </li>
-<li><h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6> </li>
+<li><h6> I have graduated in Bachelor of Statictics. <h6> </li>
   </ul>
 <hr />
 - 📫 How to reach me: <a href="https://linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
