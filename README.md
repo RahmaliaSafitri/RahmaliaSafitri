@@ -3,9 +3,11 @@
 <hr />
 <h4> This is my Github profile. </h4>
 <ul>
-<li><h6> A special Girl 😜 who is improving skills about Machine Learning, Deep Learning, and Web Development. </h6> </li>
-<li><h6> I have graduated 👨‍🎓 in Bachelor of Statictics. I'm deeply interested in data analyzing and computer science. <h6> </li>
-  </ul>
+  <li><h6> A special Girl 😜 who is </h6> </li>
+  <li><h6> 👨‍🎓 in Bachelor of Statictics. I'm deeply interested in data analyzing and computer science. <h6> </li>
+  <li><h6> Deeply interested in data analyzing and computer science. <h6> </li>
+  <li><h6> Improving skills about Machine Learning, Deep Learning, and Web Development. <h6> </li>
+ </ul>
 <hr />
 - 📫 How to reach me: <a href="https://linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
 <!--
