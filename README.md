@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Ama
+### Hi Guyss 👋 I'm Ama
 
 <hr />
 <h4> This is my Github profile. </h4>
-<h6> A special Girl 😄 who has interested in Machine Learning and Deep Learning</h6>
-<h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6>
+<li> <h6> A special Girl 😄 who has interested in Machine Learning and Deep Learning</h6> </li>
+<li> <h6> I have graduated in Bachelor of Statictics. I’m deeply interested in data analyzing and computer science. <h6> </li>
 <hr />
 - 📫 How to reach me: <a href="https://linkedin.com/in/rahmalia-safitri-0b11441a4">LinkedIn</a>
 <!--
