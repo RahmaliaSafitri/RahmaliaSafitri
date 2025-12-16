@@ -3,7 +3,7 @@
 <hr />
 <h4> This is my Github profile. </h4>
 <ul>
-  <li><h6> A special Girl 😜😘 </h6> </li>
+  <li><h6> A Girl 😜😘 </h6> </li>
   <li><h6> 👨‍🎓 Bachelor of Statictics. <h6> </li>
   <li><h6> Deeply interested in data analyzing and computer science. <h6> </li>
   <li><h6> Improving skills about Machine Learning, Deep Learning, and Web Development. <h6> </li>
